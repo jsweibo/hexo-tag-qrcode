@@ -1,0 +1,27 @@
+{
+  "name": "hexo-tag-qrcode",
+  "version": "1.0.0",
+  "description": "A Hexo plugin that generates a qrcode image and inserts it into a post.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jsweibo/hexo-tag-qrcode.git"
+  },
+  "keywords": [
+    "hexo",
+    "tag",
+    "qrcode"
+  ],
+  "author": "jsweibo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jsweibo/hexo-tag-qrcode/issues"
+  },
+  "homepage": "https://github.com/jsweibo/hexo-tag-qrcode#readme",
+  "dependencies": {
+    "qr-image": "^3.2.0"
+  }
+}
